@@ -1,0 +1,2 @@
+# GitSample
+Practicing git commands
